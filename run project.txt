@@ -1,0 +1,13 @@
+how to run project
+- open terminal
+- cd client -> yarn start
+- open secound terminal
+- cd server  -> yarn devStart
+
+username : testDTC
+password : testDTC
+
+##you can add user by api document or postman
+
+api document http://localhost:3001/api-docs/#/
+ 
